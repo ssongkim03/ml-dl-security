@@ -59,7 +59,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?logoColor=white)
-
----
-
-> 보안데이터분석 / 인공지능빅데이터분석 수업 실습 과제입니다.
